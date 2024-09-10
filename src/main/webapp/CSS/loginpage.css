@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+ 
+  .container{
+   border:1px solid black;
+   width:27%;
+   }
+   h4{
+   padding-top:20px;
+    color:cornflowerblue; 
+   }
+   button[type='submit']{
+     padding:7px;
+     width:80px;
+   }
+   input[type='text']{
+    outline:none;
+    border-left: black;
+    border-right: black;
+    border-top:black;
+    border-bottom:2px solid;
+   }

@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+.form-content{
+	width:500px;
+	padding-bottom:20px;
+	border:1px solid #28589c;
+	margin-top:60px;
+	
+	box-shadow: 5px 5px 25px black;
+	padding-top:2px;
+	background-color: white;
+    
+    }
+.form-content h2{
+	margin-top: 50px;
+	color:#28589c;
+}
+form{
+	margin-top:40px;
+	
+}
+form label{
+	margin-top:20px;
+	margin-left:20px;
+	font-size: 25px;
+	
+	color:black;
+}
+input[type='text']{
+	padding:7px;
+    
+}
+button[type="submit"]{
+	margin-top:30px;
+	background-color:#28589c;
+	color:white;
+}

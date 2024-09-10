@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+table{
+	width:95%;
+	margin-top:50px;
+    /*font-size:20px;*/
+	border:1px solid black;
+	text-align: center;
+	background-color: white;
+}
+table tr{
+	border:1px solid black;
+	padding:10px;
+}
+table td{
+	border:1px solid black;
+	padding:10px;
+}
+table th{
+	border:1px solid black;
+	padding:10px;
+	font-size:20px;
+	background-color:#c1e1ff;
+}
+h1{
+  color:navy;
+}
